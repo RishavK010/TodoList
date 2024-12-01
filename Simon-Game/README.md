@@ -21,3 +21,5 @@ How to Play
 	4.	As the game progresses, the sequence grows longer
 	5.	Your score is updated after each correct sequence, and the highest score is saved.
 
+ LINK : https://rishavk010.github.io/Mini-projects/Simon-Game/index.html
+
