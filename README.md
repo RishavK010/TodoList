@@ -34,11 +34,11 @@ npm install
 ```
 3. Run the application:
 ```bash
-npm start
+npm run dev
 ```
 4. Open the app in your browser at:
 ```bash
-http://localhost:3000
+http://localhost:5173
 ```
     
 ### 🤝 Contributions
