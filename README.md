@@ -13,13 +13,13 @@ A sleek, interactive, and responsive Todo List Application built with React.js. 
 
 ### 🛠️ Technologies Used
 
-**React.js:** Building the user interface.
+- **React.js:** Building the user interface.
 
-**CSS:** styling and responsive design.
+- **CSS:** styling and responsive design.
 
-**FontAwesome:** Adding icons.
+- **FontAwesome:** Adding icons.
 
-**localStorage:** To save tasks persistently.
+- **localStorage:** To save tasks persistently.
 
 ## 💻 Installation 
 
