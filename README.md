@@ -11,10 +11,10 @@ A sleek, interactive, and responsive Todo List Application built with React.js. 
        4. Persistence
 
 🛠️ Technologies Used
-	• React.js: For building the user interface.
-	• CSS: For styling and responsive design.
-	• FontAwesome: For adding icons.
-	• localStorage: To save tasks persistently.
+	•	React.js: For building the user interface.
+	•	CSS: For styling and responsive design.
+	•	FontAwesome: For adding icons.
+	•	localStorage: To save tasks persistently.
 
  💻 Installation
  
