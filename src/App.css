@@ -1,4 +1,6 @@
 .todo-container {
+  max-height: 500px;
+  overflow-y: auto;
   padding: 25px;
   border-radius: 10px;
   background-color: #ffffff;

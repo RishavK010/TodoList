@@ -4,7 +4,7 @@ import TodoInput from "./TodoInput";
 import TodoActions from "./TodoActions";
 import { v4 as uuidv4 } from "uuid";
 
-export default function TodoList() {
+export default function TodoListContainer() {
     const [todos, setTodos] = useState(() => {
         const savedTodos = localStorage.getItem("todos");
         return savedTodos ? JSON.parse(savedTodos) : [];
@@ -38,6 +38,9 @@ export default function TodoList() {
     return (
         <div className="todo-container">
             <h1 className="todo-title">Todo List</h1>
+            <h3 className="todo-stats">Completed: {
+            todos.filter(todo => todo.isDone).length}/{todos.length}
+            </h3>
             <TodoInput newTodo={newTodo} updateTodo={updateTodo} addNewTask={addNewTask} />
             <hr />
             <h2 className="todo-subtitle">Your Tasks</h2>
