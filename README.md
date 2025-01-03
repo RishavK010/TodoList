@@ -38,7 +38,7 @@ npm start
 ```
 4. Open the app in your browser at:
 ```bash
-http://localhost:5173
+http://localhost:3000
 ```
     
 ### 🤝 Contributions
