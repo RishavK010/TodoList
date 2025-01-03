@@ -47,6 +47,8 @@ Feel free to fork the repository, open issues, or submit pull requests to improv
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/RishavK010/TodoList/blob/746b1ed90d2491880d293458ff7fc85c112ed966/public/Screenshot%202025-01-03%20at%2012.20.59%E2%80%AFPM.png)
+
+![App Screenshot](https://github.com/RishavK010/TodoList/blob/746b1ed90d2491880d293458ff7fc85c112ed966/public/Screenshot%202025-01-03%20at%2012.21.48%E2%80%AFPM.png)
 
 ## Happy Coding! 😊
